@@ -1,0 +1,24 @@
+shipment_id,purchase_order_id,supplier,supplier_id,product_id,destination,expected_date,actual_date,status,units,transport_cost,carrier,delay_reason,corrective_action,created_at
+HIST-001,,Northstar Components,SUP-001,SKU-1001,Central Warehouse,2026-08-29,2026-08-29,Delivered,120,180,Illustrative Carrier,,,2026-08-15T08:00:00+00:00
+HIST-002,,Northstar Components,SUP-001,SKU-1002,East Hub,2026-10-12,2026-10-11,Delivered,140,210,Illustrative Carrier,,,2026-09-28T08:00:00+00:00
+HIST-003,,Harbor Supply Co,SUP-002,SKU-1003,Central Warehouse,2026-08-20,2026-08-20,Delivered,90,160,Illustrative Carrier,,,2026-08-05T08:00:00+00:00
+HIST-004,,Harbor Supply Co,SUP-002,SKU-1004,East Hub,2026-10-10,2026-10-14,Delivered,110,185,Illustrative Carrier,Regional congestion,Review route and confirm dispatch milestones,2026-09-24T08:00:00+00:00
+HIST-005,,Harbor Supply Co,SUP-002,SKU-1018,Central Warehouse,2026-11-05,2026-11-06,Delivered,100,170,Illustrative Carrier,Carrier capacity constraint,Confirm capacity before the next booking,2026-10-21T08:00:00+00:00
+HIST-006,,Brightline Wholesale,SUP-003,SKU-1005,Central Warehouse,2026-08-22,2026-08-23,Delivered,60,220,Illustrative Carrier,Missed consolidation window,Confirm dispatch plan at order release,2026-08-07T08:00:00+00:00
+HIST-007,,Brightline Wholesale,SUP-003,SKU-1006,East Hub,2026-10-05,2026-10-05,Delivered,150,240,Illustrative Carrier,,,2026-09-20T08:00:00+00:00
+HIST-008,,Brightline Wholesale,SUP-003,SKU-1013,Central Warehouse,2026-11-05,2026-11-05,Delivered,75,195,Illustrative Carrier,,,2026-10-20T08:00:00+00:00
+HIST-009,,Greenway Textiles,SUP-004,SKU-1007,West Hub,2026-08-25,2026-08-24,Delivered,130,140,Illustrative Carrier,,,2026-08-10T08:00:00+00:00
+HIST-010,,Greenway Textiles,SUP-004,SKU-1008,East Hub,2026-10-14,2026-10-14,Delivered,85,155,Illustrative Carrier,,,2026-09-29T08:00:00+00:00
+HIST-011,,Greenway Textiles,SUP-004,SKU-1014,West Hub,2026-11-03,2026-11-02,Delivered,100,145,Illustrative Carrier,,,2026-10-19T08:00:00+00:00
+HIST-012,,Meridian Paperworks,SUP-005,SKU-1009,Central Warehouse,2026-08-21,2026-08-21,Delivered,320,120,Illustrative Carrier,,,2026-08-06T08:00:00+00:00
+HIST-013,,Meridian Paperworks,SUP-005,SKU-1010,East Hub,2026-10-12,2026-10-10,Delivered,180,135,Illustrative Carrier,,,2026-09-27T08:00:00+00:00
+HIST-014,,Meridian Paperworks,SUP-005,SKU-1015,Central Warehouse,2026-11-06,2026-11-06,Delivered,260,125,Illustrative Carrier,,,2026-10-22T08:00:00+00:00
+HIST-015,,Vertex Distribution,SUP-006,SKU-1011,Central Warehouse,2026-08-19,2026-08-22,Delivered,75,360,Illustrative Carrier,Transfer documentation arrived late,Require milestone confirmation before dispatch,2026-08-04T08:00:00+00:00
+HIST-016,,Vertex Distribution,SUP-006,SKU-1012,East Hub,2026-09-29,2026-10-03,Delivered,66,410,Illustrative Carrier,Carrier handoff delay,Escalate revised ETA and receiving plan,2026-09-14T08:00:00+00:00
+HIST-017,,Vertex Distribution,SUP-006,SKU-1016,Central Warehouse,2026-11-04,2026-11-04,Delivered,140,380,Illustrative Carrier,,,2026-10-20T08:00:00+00:00
+INB-2401,PO-2401,Northstar Components,SUP-001,SKU-1001,Central Warehouse,2026-11-23,,In transit,240,550,Illustrative Freight,,,2026-11-15T09:00:00+00:00
+INB-2402,PO-2402,Harbor Supply Co,SUP-002,SKU-1003,Central Warehouse,2026-11-24,,Preparing,180,470,Illustrative Freight,,,2026-11-14T09:30:00+00:00
+INB-2403,PO-2403,Meridian Paperworks,SUP-005,SKU-1009,East Hub,2026-11-22,,In transit,520,350,Illustrative Freight,,,2026-11-13T10:00:00+00:00
+INB-2404,PO-2404,Vertex Distribution,SUP-006,SKU-1011,Central Warehouse,2026-11-18,,Delayed,96,900,Illustrative Freight,Carrier handoff not confirmed,Confirm revised ETA and notify receiving,2026-11-10T11:00:00+00:00
+INB-2405,PO-2405,Greenway Textiles,SUP-004,SKU-1007,West Hub,2026-11-21,2026-11-20,Delivered,310,300,Illustrative Freight,,,2026-11-05T09:00:00+00:00
+INB-2406,PO-2406,Brightline Wholesale,SUP-003,SKU-1005,East Hub,2026-11-26,,Preparing,125,620,Illustrative Freight,,,2026-11-16T08:15:00+00:00

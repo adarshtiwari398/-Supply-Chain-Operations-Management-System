@@ -1,0 +1,5 @@
+request_id,product_id,quantity,requester,department,justification,needed_by,status,reviewed_by,review_notes,created_at
+REQ-2026-101,SKU-1005,50,Facilities Team,Facilities,Replenish desk lamp stock below minimum,2026-11-28,Pending,,,2026-11-17T09:00:00+00:00
+REQ-2026-102,SKU-1009,150,Office Services,Office Operations,Support planned seasonal stationery demand,2026-12-05,Approved,Procurement Manager,Approved within operating plan,2026-11-18T10:30:00+00:00
+REQ-2026-103,SKU-1012,24,IT Support,Technology,Request for spare connectivity equipment,2026-12-08,Rejected,Procurement Manager,Defer until current order and usage are reviewed,2026-11-18T11:15:00+00:00
+REQ-2026-104,SKU-1007,310,Site Operations,Operations,Replacement supply for planned site work,2026-11-21,Converted,Procurement Manager,Converted to completed illustrative order PO-2405,2026-11-05T08:30:00+00:00

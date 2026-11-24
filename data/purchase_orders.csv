@@ -1,0 +1,8 @@
+po_id,request_id,supplier,product_id,quantity,unit_cost,expected_date,status,actual_quantity,actual_unit_cost,department,notes,created_at
+PO-2401,,Northstar Components,SKU-1001,240,8.5,2026-11-23,Approved,,,Operations,Illustrative inbound replenishment,2026-11-15T09:00:00+00:00
+PO-2402,,Harbor Supply Co,SKU-1003,180,11.4,2026-11-24,Approved,,,Kitchen Operations,Illustrative inbound replenishment,2026-11-14T09:30:00+00:00
+PO-2403,,Meridian Paperworks,SKU-1009,520,2.1,2026-11-22,Approved,,,Office Operations,Illustrative inbound replenishment,2026-11-13T10:00:00+00:00
+PO-2404,,Vertex Distribution,SKU-1011,96,14.75,2026-11-18,Approved,,,Technology,Illustrative order linked to delayed inbound,2026-11-10T11:00:00+00:00
+PO-2405,REQ-2026-104,Greenway Textiles,SKU-1007,310,3.8,2026-11-21,Completed,310,3.8,Operations,Illustrative received order,2026-11-05T09:00:00+00:00
+PO-2406,,Brightline Wholesale,SKU-1005,125,18.5,2026-11-26,Approved,,,Facilities,Illustrative inbound replenishment,2026-11-16T08:15:00+00:00
+PO-2407,,Meridian Paperworks,SKU-1015,600,1.35,2026-11-28,Pending,,,Office Operations,Waiting for procurement approval,2026-11-19T13:00:00+00:00

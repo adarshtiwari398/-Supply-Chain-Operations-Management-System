@@ -1,0 +1,21 @@
+product_id,product_name,category,supplier,on_hand,avg_weekly_demand,lead_time_days,unit_cost,minimum_stock,maximum_stock,carrying_cost_pct
+SKU-1001,Insulated Bottle,Drinkware,Northstar Components,90,32,14,8.5,64,192,22
+SKU-1002,Travel Mug,Drinkware,Northstar Components,118,26,10,6.25,38,142,22
+SKU-1003,Glass Food Jar,Kitchen,Harbor Supply Co,80,19,21,11.4,57,133,22
+SKU-1004,Reusable Lunch Box,Kitchen,Harbor Supply Co,100,24,12,9.75,42,138,22
+SKU-1005,Compact Desk Lamp,Home,Brightline Wholesale,19,17,28,18.5,68,136,22
+SKU-1006,LED Bulb Pair,Home,Brightline Wholesale,145,38,9,4.2,49,201,22
+SKU-1007,Cotton Tote,Accessories,Greenway Textiles,100,29,16,3.8,67,183,22
+SKU-1008,Canvas Backpack,Accessories,Greenway Textiles,80,14,24,22,48,104,22
+SKU-1009,Notebook Set,Stationery,Meridian Paperworks,210,42,7,2.1,42,160,22
+SKU-1010,Weekly Planner,Stationery,Meridian Paperworks,80,21,11,5.6,33,117,22
+SKU-1011,Wireless Mouse,Electronics,Vertex Distribution,22,18,18,14.75,47,119,22
+SKU-1012,USB-C Hub,Electronics,Vertex Distribution,60,16,20,19.9,46,110,22
+SKU-1013,Storage Basket,Home,Harbor Supply Co,55,13,15,12.25,28,80,22
+SKU-1014,Travel Organizer,Accessories,Greenway Textiles,88,20,13,7.4,38,118,22
+SKU-1015,Sticky Note Pack,Stationery,Meridian Paperworks,24,31,8,1.35,36,160,22
+SKU-1016,Charging Cable,Electronics,Vertex Distribution,132,34,10,3.6,49,185,22
+SKU-1017,Ceramic Planter,Home,Northstar Components,16,11,25,10.8,40,84,22
+SKU-1018,Meal Prep Container,Kitchen,Harbor Supply Co,120,27,14,6.9,54,162,22
+SKU-1019,Fabric Pencil Case,Stationery,Greenway Textiles,40,15,12,4.5,26,86,22
+SKU-1020,Portable Speaker,Electronics,Vertex Distribution,70,12,22,26,38,86,22

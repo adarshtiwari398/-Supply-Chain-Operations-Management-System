@@ -1,0 +1,21 @@
+product_id,movement_type,quantity_change,unit_cost_at_movement,reference,movement_date,notes
+SKU-1001,Issue,-416,8.5,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1002,Issue,-338,6.25,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1003,Issue,-247,11.4,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1004,Issue,-312,9.75,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1005,Issue,-221,18.5,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1006,Issue,-494,4.2,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1007,Issue,-377,3.8,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1008,Issue,-182,22,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1009,Issue,-546,2.1,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1010,Issue,-273,5.6,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1011,Issue,-234,14.75,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1012,Issue,-208,19.9,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1013,Issue,-169,12.25,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1014,Issue,-260,7.4,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1015,Issue,-403,1.35,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1016,Issue,-442,3.6,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1017,Issue,-143,10.8,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1018,Issue,-351,6.9,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1019,Issue,-195,4.5,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
+SKU-1020,Issue,-156,26,DEMO-90D-ISSUE,2026-10-22,Illustrative 90-day operating issue total
