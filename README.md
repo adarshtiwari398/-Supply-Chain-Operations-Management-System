@@ -1,10 +1,13 @@
 # Supply Chain Operations & Management System
 
+<<<<<<< HEAD
 ![Supply Chain Operations Executive Dashboard](screenshots/supply-chain-dashboard.svg)
 
 > Illustrative November 2026 snapshot from the bundled sample data. The running
 > application calculates dashboard values from its local database.
 
+=======
+>>>>>>> origin/main
 A local, management-oriented workspace for coordinating procurement, suppliers,
 inventory, resource allocation, inbound logistics, and operational follow-up.
 It is designed to demonstrate practical supply-chain decision-making and
