@@ -1,0 +1,7 @@
+supplier_id,supplier,category,standard_lead_time_days,quality_rate_pct,price_competitiveness_score,contract_status,contract_renewal_date,risk_level,account_owner,notes
+SUP-001,Northstar Components,Drinkware / Home,13,98.6,4,Active,2027-04-30,Low,Procurement Team,Illustrative supplier record
+SUP-002,Harbor Supply Co,Kitchen / Home,17,97.9,3,Expiring,2026-12-15,Medium,Procurement Team,Illustrative supplier record
+SUP-003,Brightline Wholesale,Home,19,98.2,3,Expired,2026-11-15,High,Procurement Team,Illustrative supplier record
+SUP-004,Greenway Textiles,Accessories / Stationery,15,99.1,4,Active,2027-06-30,Low,Procurement Team,Illustrative supplier record
+SUP-005,Meridian Paperworks,Stationery,9,99.4,5,Active,2027-02-28,Low,Procurement Team,Illustrative supplier record
+SUP-006,Vertex Distribution,Electronics,18,97.2,2,Expiring,2026-12-01,High,Procurement Team,Illustrative supplier record
